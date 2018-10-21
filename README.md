@@ -1,8 +1,2 @@
-# flutter_todo
-
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Description
+This is a simple application built in flutter framework through which employees can register their complaints against assigned assets.
